@@ -10,7 +10,7 @@ Contains the SMILES of various molecules along with their pIC50 values.
 ## Follow this order of execution to make sense of this project:
 
   ### training_and_test_compounds_to_sdf.ipynb: 
-  Converts SMILES in smiles.pdf to sdf. This sdf is input to a third party tool (Padel Descriptor). Padel converts sdf to topological molecular descriptors. Descriptor file is available in molecular_descriptors.csv/molecular_descriptors_with_pIC50_values.csv
+  Converts SMILES in smiles.pdf to sdf. This sdf is input to a third party tool (Padel Descriptor). Padel converts sdf to topological molecular descriptors. Descriptor file is available in molecular_descriptors_csv/molecular_descriptors_with_pIC50_values.csv
   
   ### preprocessing_training.ipynb:
   Removes 0 variance descriptors. Performs min-max scaling (0,1) of descriptors and pIC50 values.
