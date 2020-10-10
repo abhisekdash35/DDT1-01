@@ -4,7 +4,8 @@ This project develops a regression model for COVID-19 drug discovery.
 
 ## Input:
 
-smiles.pdf: Contains the SMILES of various molecules along with their pIC50 values.
+### smiles.pdf:
+Contains the SMILES of various molecules along with their pIC50 values.
 
 ## Follow this order of execution to make sense of this project:
 
