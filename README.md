@@ -36,3 +36,25 @@ Contains the SMILES of various molecules along with their pIC50 values.
   
  ### predict_cas_antiviral.ipynb
  This notebook predicts pIC50 values of CAS antiviral molecules by using 35 best models used during training. Molecules are ranked in descending order of pIC50 values which are within the applicbility domain of the models. The top 100 ranked compounds are available in pIC50_values_csv/cas_antiviral_top_100_pIC50_vals.csv
+ 
+ ## About the folders in this project:
+ 
+ ### best_models
+ Saves the best model architectures and weights. Saves data used to train and test the models. Also saves the performance parameters of best models.
+ ### data
+ Saves data when create_dataset.ipynb is run. Contains training, leave one out and test datasets.
+ 
+ ### models_info
+ Saves model architectures,weights and model parameters when CNN_regression.ipynb is run. Also saves data to compute external validation parameters.
+ ### molecular_descriptors_csv
+ Saves raw and scaled molecular descriptors for training/test, blinded and CAS antiviral compounds. This folder serves as the master dataset for the project.
+ 
+ ### pIC50_values_csv
+ Saves pIC50 values for blinded and top 100 CAS antiviral compounds. This folder serves as the output of this project.
+ 
+ ### scaler_data
+ Saves the min-max scaler attributes used to transform training set molecular descriptors.
+ 
+ ### sdf
+ saves sdf files for training,test,blinded and CAS antiviral molecules..
+ 
