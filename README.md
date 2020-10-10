@@ -60,3 +60,5 @@ CSV files containing the pIC50 values of blinded molecules and the top 100 CAS a
  ### 7. sdf/
  saves sdf files for training,test,blinded and CAS antiviral molecules..
  
+ END
+ 
