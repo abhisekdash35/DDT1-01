@@ -1,0 +1,101 @@
+,CAS-ID,Compound Names,Smiles from CAS IDs,predicted_pIC50_cas_values,distance_to_ensemble_models_for_cas_compounds
+0,148312-35-0,"1,3,5-Triazin-2-amine, N,4-dicyclopropyl-6-(4-morpholinyl)-",Not available,-0.17745117583694853,0.29650417428189174
+1,148238-42-0,"Furo[3Ã¢â‚¬Â²,4Ã¢â‚¬Â²:6,7]naphtho[2,3-d]-1,3-dioxol-6(5aH)-one, 5,8,8a,9-tetrahydro-5-(4-hydroxy-3,5-dimethoxyphenyl)-9-(2-hydroxyethyl)-, [5R-(5ÃŽÂ±,5aÃŽÂ²,8aÃŽÂ±,9ÃŽÂ²)]-",Not available,-0.3144581546949137,0.19606368823647477
+2,39497-40-0,"Hydrazinecarboximidothioic acid, 2-(1-ethyl-1,2-dihydro-2-oxo-3H-indol-3-ylidene)-, ethyl ester",Not available,-0.37698596046221017,0.26504337018345003
+3,173987-47-8,"Thymidine, 3Ã¢â‚¬Â²-azido-3Ã¢â‚¬Â²-deoxy-, 5Ã¢â‚¬Â²-[[(phosphonomethoxy)carbonyl]sulfamate]",Not available,-0.5599465776658666,0.2191558452376199
+4,38748-49-1,"Inosine, 8-[[(2-methylphenyl)methyl]amino]-, cyclic 3Ã¢â‚¬Â²,5Ã¢â‚¬Â²-(hydrogen phosphate)",Not available,-0.6062203836539712,0.07823170716559615
+5,394729-77-2,"3-Azabicyclo[3.1.0]hexane-2-carboxamide, N-[3-amino-1-(cyclobutylmethyl)-2,3-dioxopropyl]-3-[(2S)-2-[[(cyclohexylamino)carbonyl]amino]-3,3-dimethyl-1-oxobutyl]-6,6-dimethyl-, (1R,2S,5S)-",Not available,-0.6071397555556166,0.27781803058989385
+6,865104-59-2,"Carbamic acid, [(1S,2R)-3-[[[(3Z)-2,3-dihydro-3-[(3Z)-1-[(1-methylethyl)amino]ethylidene]-2-oxo-1H-indol-5-yl]sulfonyl](2-methylpropyl)amino]-2-hydroxy-1-(phenylmethyl)propyl]-, (3R,3aS,6aR)-hexahydrofuro[2,3-b]furan-3-yl ester",Not available,-0.6427325820336036,0.1548165614442977
+7,1184957-98-9,"2-Naphthalenesulfonic acid, 5-amino-8-[2-(4-amino-2,5-dimethylphenyl)diazenyl]-",Not available,-0.6655292192704634,0.2180427632877736
+8,1651207-29-2,"L-Alanine-3,3,3-d3, N-[[P(S),2Ã¢â‚¬Â²R]-2Ã¢â‚¬Â²-deoxy-2Ã¢â‚¬Â²-fluoro-2Ã¢â‚¬Â²-methyl-P-phenyl-5Ã¢â‚¬Â²-uridylyl-5-d-5Ã¢â‚¬Â²-C-d]-, 1-methylethyl ester",Not available,-0.7282872185616848,0.24824145873094425
+9,1075210-13-7,"Carbamic acid, N-[(1S,2R)-2-hydroxy-3-[[[4-(hydroxymethyl)phenyl]sulfonyl](2-methylpropyl)amino]-1-(phenylmethyl)propyl]-, (3S)-tetrahydro-3-furanyl ester",Not available,-0.7343874637952004,0.25067914373497197
+10,1184942-58-2,"5,8-Dioxa-3-aza-4-phosphanonanoic acid, 9-(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)-2-[(1S)-1-methylpropyl]-4-phenoxy-, phenylmethyl ester, 4-oxide, (2S)-",Not available,-0.736352171364375,0.19009280575719012
+11,1228966-45-7,"Carbamic acid, N-[(1S)-1-[[(2S)-2-[5-[2-[4Ã¢â‚¬Â²-[2-[(2S)-1-[(2S)-2-[(methoxycarbonyl)amino]-3-methyl-1-oxobutyl]-2-pyrrolidinyl]-1H-imidazol-5-yl][1,1Ã¢â‚¬Â²-biphenyl]-4-yl]ethynyl]-1H-imidazol-2-yl]-1-pyrrolidinyl]carbonyl]-2-methylpropyl]-, methyl ester",Not available,-0.7382666336466015,0.2820223688686058
+12,2243714-80-7,"Ethanol, 2-[(7-chloro-4-quinolinyl)[4-[ethyl(2-hydroxyethyl)amino]-1-methylbutyl]amino]-",Not available,-0.7430347945284703,0.299560726554944
+13,2242826-11-3,"1H-Indole-1-pentaneperoxoic acid, 3-(1,3-dihydro-3-oxo-2H-indol-2-ylidene)-2,3-dihydro-2-oxo-, (5R,5aR,8aR,9R)-5,5a,6,8,8a,9-hexahydro-8-oxo-9-(3,4,5-trimethoxyphenyl)furo[3Ã¢â‚¬Â²,4Ã¢â‚¬Â²:6,7]naphtho[2,3-d]-1,3-dioxol-5-yl ester",Not available,-0.7430347945284703,0.299560726554944
+14,1184942-57-1,"5,8-Dioxa-3-aza-4-phosphanonanoic acid, 9-(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)-2-(2-methylpropyl)-4-phenoxy-, phenylmethyl ester, 4-oxide, (2S)-",Not available,-0.747100222490093,0.17893001914760598
+15,2242826-17-9,"Hexaneperoxoic acid, 6-bromo-, (5R,5aR,8aR,9R)-5,5a,6,8,8a,9-hexahydro-8-oxo-9-(3,4,5-trimethoxyphenyl)furo[3Ã¢â‚¬Â²,4Ã¢â‚¬Â²:6,7]naphtho[2,3-d]-1,3-dioxol-5-yl ester",Not available,-0.7476214881298032,0.2657020748197133
+16,2242429-36-1,"2,5,6,10,13-Pentaazatetradecanedioic acid, 6-[[2,6-difluoro-4-(4-fluoro-2-pyridinyl)phenyl]methyl]-8-hydroxy-9-[[4-[2-[6-[8-(3-oxetanyl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-3-pyridinyl]ethynyl]phenyl]methyl]-4,11-dioxo-3,12-bis(2,2,2-trifluoro-1,1-dimethylethyl)-, 1,14-dimethyl ester, (3S,8S,9S,12S)-",Not available,-0.7476214881298032,0.2657020748197133
+17,1192538-53-6,Not Yet Assigned,Not available,-0.7573460544453392,0.21264719403939286
+18,672288-88-9,"3Ã¢â‚¬Â²-Thymidylic acid, monoethyl ester, 5Ã¢â‚¬Â²-(ethyl hydrogen phosphate)",Not available,-0.7652467168446597,0.2857080372147176
+19,1184942-74-2,"5,8-Dioxa-3-aza-4-phosphanonanoic acid, 9-[2-[[(dimethylamino)methylene]amino]-1,6-dihydro-6-oxo-9H-purin-9-yl]-2-(1-methylethyl)-4-(1-naphthalenyloxy)-, methyl ester, 4-oxide, (2S)-",Not available,-0.7663179931021946,0.17722402720106697
+20,1184942-60-6,"5,8-Dioxa-3-aza-4-phosphanonanoic acid, 9-(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)-4-phenoxy-, phenylmethyl ester, 4-oxide",Not available,-0.7709945439725115,0.18184269651811516
+21,2230747-29-0,"2-Pyrazinecarboxylic acid, 3,5,6-trimethyl-, (5R,5aR,8aR,9R)-5,5a,6,8,8a,9-hexahydro-8-oxo-9-(3,4,5-trimethoxyphenyl)furo[3Ã¢â‚¬Â²,4Ã¢â‚¬Â²:6,7]naphtho[2,3-d]-1,3-dioxol-5-yl ester",Not available,-0.7754349419941724,0.2321675002905647
+22,2243581-19-1,"Hexanoic acid, 6-chloro-, (5R,5aR,8aR,9R)-5,5a,6,8,8a,9-hexahydro-8-oxo-9-(3,4,5-trimethoxyphenyl)furo[3Ã¢â‚¬Â²,4Ã¢â‚¬Â²:6,7]naphtho[2,3-d]-1,3-dioxol-5-yl ester",Not available,-0.7813866715074298,0.2901638766063755
+23,2243715-67-3,"Butanoic acid, 3-methyl-, 2-[[4-[(7-chloro-4-quinolinyl)amino]pentyl]ethylamino]ethyl ester",Not available,-0.7813866715074298,0.2901638766063755
+24,69264-38-6,"Uridine-4-14C, 2Ã¢â‚¬Â²-deoxy-5-(1-methylethyl)-",Not available,-0.7874786204261238,0.291172520673106
+25,1948282-09-4,"2(1H)-Pyrimidinone, 4-amino-1-[2-deoxy-2-(fluoromethyl)-4-C-(fluoromethyl)-ÃŽÂ²-D-arabinofuranosyl]-",Not available,-0.7952156935191017,0.20138751679805317
+26,2242429-39-4,"2,5,6,10,13-Pentaazatetradecanedioic acid, 6-[[2,6-difluoro-4-(2-pyridinyl)phenyl]methyl]-8-hydroxy-9-[[4-[2-[6-(8-methyl-3,8-diazabicyclo[3.2.1]oct-3-yl)-3-pyridinyl]ethynyl]phenyl]methyl]-4,11-dioxo-3,12-bis(2,2,2-trifluoro-1,1-dimethylethyl)-, 1,14-dimethyl ester, (3S,8S,9S,12S)-",Not available,-0.8024050929843454,0.2610550521411153
+27,2242453-16-1,"Cholest-7-en-6-one, 4,14,20,22,25-pentahydroxy-, (4ÃŽÂ±,5ÃŽÂ²,22R)-",Not available,-0.8024050929843454,0.2610550521411153
+28,1185110-50-2,Not Yet Assigned,Not available,-0.8026340011637205,0.16037864697544907
+29,2243715-83-3,"Butanedioic acid, 1-[2-[(7-chloro-4-quinolinyl)[4-[ethyl[2-(nitrooxy)ethyl]amino]-1-methylbutyl]amino]ethyl] ester",Not available,-0.8033744764739299,0.2996386317102891
+30,2243715-86-6,Not Yet Assigned,Not available,-0.8033744764739299,0.2996386317102891
+31,144848-58-8,"2(1H)-Pyrimidinone, 4-amino-1-(2-deoxy-3-S-ethyl-3-thio-ÃŽÂ±-D-erythro-pentofuranosyl)-",Not available,-0.8050472939807874,0.2720741781853251
+32,502623-93-0,"4,6-Heptadien-3-one, 5-hydroxy-1-(4-hydroxy-3-methoxyphenyl)-7-(4-hydroxyphenyl)-, (4Z,6E)-",Not available,-0.8050472939807874,0.2720741781853251
+33,723263-22-7,"1H-Imidazo[4,5-c]quinolin-4-amine, 1-(2-methylpropyl)-8-(4-phenoxyphenyl)-",Not available,-0.8050472939807874,0.2720741781853251
+34,937397-88-1,"1-Piperidinecarboxylic acid, 4-[[2-amino-5-[[[(2R,3S)-3-[[[[(3R,3aS,6aR)-hexahydrofuro[2,3-b]furan-3-yl]oxy]carbonyl]amino]-2-hydroxy-4-phenylbutyl](2-methylpropyl)amino]sulfonyl]phenyl]amino]-, 1,1-dimethylethyl ester",Not available,-0.8050472939807874,0.2720741781853251
+35,1951464-81-5,"3Ã¢â‚¬Â²-Inosinic acid, 2Ã¢â‚¬Â²-deoxy-2Ã¢â‚¬Â²-fluoroinosinylyl-(3Ã¢â‚¬Â²Ã¢â€ â€™5Ã¢â‚¬Â²)-2Ã¢â‚¬Â²-deoxy-2Ã¢â‚¬Â²-fluoro-, cyclic nucleotide",Not available,-0.8078183799807267,0.2717710730254894
+36,1312908-77-2,"4H-1-Benzopyran-4-one, 2-(5-chloro-1H-1,2,4-triazol-3-yl)-6-[(4-fluorophenyl)methoxy]-3-hydroxy-7-methyl-",Not available,-0.8082664978306009,0.2808084126626977
+37,853792-82-2,"1H-Imidazo[4,5-c]quinolin-4-amine, 1-(1-methylethyl)-",Not available,-0.8091415837700292,0.27080077030532157
+38,2243245-34-1,"Hydrazinecarbothioamide, 2-[5-chloro-1,2-dihydro-1-[5-[4-[(2-methyl-5-nitro-1H-imidazol-1-yl)methyl]-1H-1,2,3-triazol-1-yl]pentyl]-2-oxo-3H-indol-3-ylidene]-, (2Z)-",Not available,-0.8133557611509192,0.2075778332165453
+39,2243245-37-4,"Hydrazinecarbothioamide, 2-[5-fluoro-1,2-dihydro-1-[4-[4-[(2-methyl-5-nitro-1H-imidazol-1-yl)methyl]-1H-1,2,3-triazol-1-yl]butyl]-2-oxo-3H-indol-3-ylidene]-, (2Z)-",Not available,-0.8133557611509192,0.2075778332165453
+40,2363060-74-4,Not Yet Assigned,Not available,-0.8145621154356913,0.26169221640698215
+41,2243245-33-0,"Hydrazinecarbothioamide, 2-[5-chloro-1,2-dihydro-1-[4-[4-[(2-methyl-5-nitro-1H-imidazol-1-yl)methyl]-1H-1,2,3-triazol-1-yl]butyl]-2-oxo-3H-indol-3-ylidene]-, (2Z)-",Not available,-0.8163545868351881,0.2962248195912703
+42,2243245-35-2,"Hydrazinecarbothioamide, 2-[5-fluoro-1,2-dihydro-1-[2-[4-[(2-methyl-5-nitro-1H-imidazol-1-yl)methyl]-1H-1,2,3-triazol-1-yl]ethyl]-2-oxo-3H-indol-3-ylidene]-, (2Z)-",Not available,-0.8163545868351881,0.2962248195912703
+43,2361527-81-1,"Benzenesulfonothioic acid, 4-methyl-, (2S)-2-[[(2S)-2-[[(4-methyl-1-piperazinyl)carbonyl]amino]-1-oxo-3-phenylpropyl]amino]-4-phenylbutyl ester",Not available,-0.8165720437631193,0.18940285020015152
+44,853792-92-4,"1H-Imidazo[4,5-c]quinolin-4-amine, 2-heptyl-1-(2-methylpropyl)-",Not available,-0.8180418936806075,0.27486968574269605
+45,2243079-72-1,Not Yet Assigned,Not available,-0.8224159211836951,0.21932792191599665
+46,2243106-01-4,"L-Alanine, N-[[[(1R)-2-(6-amino-9H-purin-9-yl)-1-methylethoxy]methyl]phenoxyphosphinyl]-, cyclobutyl ester",Not available,-0.8224159211836951,0.21932792191599665
+47,1184942-48-0,"5,8-Dioxa-3-aza-4-phosphanonanoic acid, 9-(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)-2-methyl-4-phenoxy-, 1-methylethyl ester, 4-oxide, (2S)-",Not available,-0.8249841564437694,0.1550972349827025
+48,1985607-02-0,"Carbonic acid, [[(12aR)-12-[(11S)-7,8-difluoro-6,11-dihydrodibenzo[b,e]thiepin-11-yl]-3,4,6,8,12,12a-hexahydro-6,8-dioxo-1H-[1,4]oxazino[3,4-c]pyrido[2,1-f][1,2,4]triazin-7-yl]oxy]methyl (3R)-tetrahydro-4,4-dimethyl-2-oxo-3-furanyl ester",Not available,-0.8251117561027167,0.24437532039403348
+49,2364589-90-0,"Carbonic acid, [[(12Ã¢â‚¬Â²aR)-12Ã¢â‚¬Â²-[(11S)-7-fluoro-6,11-dihydrodibenzo[b,e]thiepin-11-yl]-12Ã¢â‚¬Â²,12Ã¢â‚¬Â²a-dihydro-6Ã¢â‚¬Â²,8Ã¢â‚¬Â²-dioxospiro[cyclopropane-1,3Ã¢â‚¬Â²(4Ã¢â‚¬Â²H)-[1H][1,4]oxazino[3,4-c]pyrido[2,1-f][1,2,4]triazin]-7Ã¢â‚¬Â²-yl]oxy]methyl methyl ester",Not available,-0.8266981049762218,0.257090399076624
+50,72687-19-5,"5Ã¢â‚¬Â²-Thymidylic acid, ÃŽÂ±-(methylthio)-",Not available,-0.8277141114181139,0.22539018600961963
+51,1453350-73-6,"2,7,10,12-Tetraazatridecanoic acid, 12-methyl-13-[2-(1-methylethyl)-4-thiazolyl]-9-[2-(4-morpholinyl)ethyl]-8,11-dioxo-3,6-bis(phenylmethyl)-, 5-thiazolylmethyl ester, (3R,6R,9S)-, compd. with 1,2-benzisothiazol-3(2H)-one 1,1-dioxide (1:?)",Not available,-0.830796017100104,0.2708156426295493
+52,612485-40-2,"3-Furancarbonitrile, 5-(3,4-dihydro-5-methyl-2,4-dioxo-1(2H)-pyrimidinyl)-2,5-dihydro-2-(hydroxymethyl)-, (2R,5S)-",Not available,-0.8327313954436415,0.289095436292673
+53,103025-08-7,"6H-Purin-6-one, 2-amino-9-[[2-(cyclopentyloxy)-1-(hydroxymethyl)ethoxy]methyl]-1,9-dihydro-",Not available,-0.8329980460129799,0.29447881619843314
+54,890312-32-0,"Benzoic acid, 2-[(3-nitrobenzoyl)amino]-4-(2-phenylethyl)-",Not available,-0.8329980460129799,0.29447881619843314
+55,1208118-97-1,"Cyclopenta[c]pyrrole-1-carboxamide, 2-[(2S)-2-[[(2S)-2-cyclohexyl-2-[(2-pyrazinylcarbonyl)amino]acetyl]amino]-7-methyl-1,5-dioxo-6-octen-1-yl]-N-[(1S)-1-[2-(cyclopropylamino)-2-oxoacetyl]butyl]octahydro-, (1S,3aR,6aS)-",Not available,-0.8341717992859881,0.2643443033467836
+56,1860842-89-2,"Carbamic acid, N-[9-[(1S,3R,4S)-4-(acetyloxy)-2-methylene-3-[(triphenylmethoxy)methyl]cyclopentyl]-6,9-dihydro-6-oxo-1H-purin-2-yl]-, 1,1-dimethylethyl ester",Not available,-0.8341717992859881,0.2643443033467836
+57,1338781-08-0,"Urea, N-(2-ethoxyethyl)-NÃ¢â‚¬Â²-tricyclo[3.3.1.13,7]dec-1-yl-",Not available,-0.8370362480400471,0.22584638798961923
+58,1418741-52-2,"Urea, N-[4-[[6-(1,1-dimethylethyl)-3-(methylthio)-5-oxo-1,2,4-triazin-4(5H)-yl]amino]-6-(4-morpholinyl)-1,3,5-triazin-2-yl]-NÃ¢â‚¬Â²-(2-methylphenyl)-",Not available,-0.8374176448228343,0.24011646842076426
+59,622865-55-8,"Carbamic acid, [(1S,2R)-3-[[[4-[[bis(phenylmethoxy)phosphinyl]methoxy]phenyl]sulfonyl](2-methylpropyl)amino]-2-hydroxy-1-[(4-hydroxyphenyl)methyl]propyl]-, (3R,3aS,6aR)-hexahydrofuro[2,3-b]furan-3-yl ester",Not available,-0.8385968900225554,0.28775581199298
+60,1432060-78-0,Not Yet Assigned,Not available,-0.8396321766326951,0.29493520048107014
+61,2361932-53-6,Not Yet Assigned,Not available,-0.839651339951438,0.18575329092829995
+62,2243245-28-3,"Hydrazinecarbothioamide, 2-[1,2-dihydro-1-[3-[4-[(2-methyl-5-nitro-1H-imidazol-1-yl)methyl]-1H-1,2,3-triazol-1-yl]propyl]-2-oxo-3H-indol-3-ylidene]-, (2Z)-",Not available,-0.8406324083914756,0.2683474074773665
+63,2243245-32-9,"Hydrazinecarbothioamide, 2-[5-chloro-1,2-dihydro-1-[3-[4-[(2-methyl-5-nitro-1H-imidazol-1-yl)methyl]-1H-1,2,3-triazol-1-yl]propyl]-2-oxo-3H-indol-3-ylidene]-, (2Z)-",Not available,-0.8406324083914756,0.2683474074773665
+64,2243715-60-6,"Ethanol, 2-[[4-[(7-chloro-4-quinolinyl)amino]pentyl]ethylamino]-, 1-propanoate",Not available,-0.8410651021067517,0.2653351996411247
+65,2243715-63-9,"2-Butenedioic acid (2Z)-, 1-[2-[[4-[(7-chloro-4-quinolinyl)amino]pentyl]ethylamino]ethyl] ester",Not available,-0.8410651021067517,0.2653351996411247
+66,1947402-13-2,"Phenol, 2-[[(9-ÃŽÂ²-D-arabinofuranosyl-9H-purin-6-yl)amino]methyl]-3-iodo-",Not available,-0.8412482052803509,0.21389788213590283
+67,2230750-01-1,"6H-Purin-6-one, 2-(amino-d2)-1,9-dihydro-1-d-9-[(1S,3R,4S)-4-(hydroxy-d)-3-(hydroxymethyl)-2-methylenecyclopentyl]-",Not available,-0.8421647727938876,0.21478200305696313
+68,1646142-48-4,"3,4-Pyrrolidinediol, 2-[4-(cyclohexylamino)-5H-pyrrolo[3,2-d]pyrimidin-7-yl]-5-(hydroxymethyl)-, (2S,3S,4R,5R)-",Not available,-0.8425296937965361,0.243892212605515
+69,853792-81-1,"1H-Imidazo[4,5-c]quinolin-4-amine, 1-propyl-",Not available,-0.8456438499417767,0.2819253157553044
+70,1951478-19-5,"2,4(1H,3H)-Pyrimidinedione, 1-[2-cyano-2-deoxy-5-O-[hydroxy[[hydroxy(phosphonooxy)phosphinyl]oxy]phosphinyl]-ÃŽÂ²-L-arabinofuranosyl]-5-methyl-",Not available,-0.846559248960268,0.2910696921982904
+71,195507-26-7,"L-Cysteine, N-(2Ã¢â‚¬Â²,3Ã¢â‚¬Â²-didehydro-3Ã¢â‚¬Â²-deoxy-P-phenyl-5Ã¢â‚¬Â²-thymidylyl)-S-methyl-, methyl ester",Not available,-0.8467490125556254,0.29846079257396346
+72,195507-27-8,"L-Aspartic acid, N-(2Ã¢â‚¬Â²,3Ã¢â‚¬Â²-didehydro-3Ã¢â‚¬Â²-deoxy-P-phenyl-5Ã¢â‚¬Â²-thymidylyl)-, dimethyl ester",Not available,-0.8467490125556254,0.29846079257396346
+73,2243715-66-2,"Pentanoic acid, 2-[[4-[(7-chloro-4-quinolinyl)amino]pentyl]ethylamino]ethyl ester",Not available,-0.8471232815186364,0.29040643570622476
+74,2243715-64-0,"Propanoic acid, 2-hydroxy-, 2-[[4-[(7-chloro-4-quinolinyl)amino]pentyl]ethylamino]ethyl ester",Not available,-0.8471232815186364,0.29040643570622476
+75,32465-18-2,"9H-Purin-6-amine, 9-(3,5-O-phosphinico-ÃŽÂ²-D-arabinofuranosyl)-",Nc1ncnc2n(cnc12)[C@@H]3OC4CO[P](O)(=O)OC4[C@@H]3O,-0.8480421860222637,0.21948380358451183
+76,71842-71-2,"Acetic acid, 2-[bis(2-methylpropoxy)phosphinyl]-2,2-dichloro-, 1-methylpropyl ester",Not available,-0.8480421860222637,0.21948380358451183
+77,2303913-86-0,Not Yet Assigned,Not available,-0.8502213124322516,0.29926543186839727
+78,1551453-60-1,"2,7,10,12-Tetraazatridec-4-enoic acid, 12-methyl-9-(1-methylethyl)-13-[2-(1-methylethyl)-4-thiazolyl]-8,11-dioxo-3,6-bis(phenylmethyl)-, 5-thiazolylmethyl ester, (3S,4E,6S,9S)-",Not available,-0.8506836859216785,0.21683080323553694
+79,1956363-73-7,"Carbamic acid, N-[(1S,2R)-2-hydroxy-3-[[(4-methoxyphenyl)sulfonyl](2-methylpropyl)amino]-1-(tricyclo[3.3.1.13,7]dec-1-ylmethyl)propyl]-, (3R)-tetrahydro-3-furanyl ester",Not available,-0.851236267228603,0.21408581324639306
+80,1184942-44-6,"5,8-Dioxa-3-aza-4-phosphanonanoic acid, 9-(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)-2-methyl-4-(1-naphthalenyloxy)-, propyl ester, 4-oxide, (2S)-",Not available,-0.8532980767360424,0.16557446737982603
+81,2242605-60-1,"Furo[3Ã¢â‚¬Â²,4Ã¢â‚¬Â²:6,7]naphtho[2,3-d]-1,3-dioxole, 9-ethoxy-5,5a,6,8,8a,9-hexahydro-6-methylene-5-(3,4,5-trimethoxyphenyl)-, (5R,5aS,8aR,9R)-",Not available,-0.8553453969049201,0.2506360759911229
+82,2242429-32-7,"2,5,6,10,13-Pentaazatetradecanedioic acid, 6-[[2-fluoro-4-(5-fluoro-2-pyridinyl)phenyl]methyl]-8-hydroxy-9-[[4-[2-[6-[8-(3-oxetanyl)-3,8-diazabicyclo[3.2.1]oct-3-yl]-3-pyridinyl]ethynyl]phenyl]methyl]-4,11-dioxo-3,12-bis(2,2,2-trifluoro-1,1-dimethylethyl)-, 1,14-dimethyl ester, (3S,8S,9S,12S)-",Not available,-0.8553453969049201,0.2506360759911229
+83,1947402-04-1,"1,3,5-Benzenetriol, 2-[[(9-ÃŽÂ²-D-arabinofuranosyl-9H-purin-6-yl)amino]methyl]-",Not available,-0.8560446243400301,0.27374430670652805
+84,1949770-73-3,"Carbamic acid, N-[(1S)-1-[[(2S)-2-[5-chloro-7-[4-[2-[(2S)-1-[(2S)-3-methyl-2-[[(1-methylethoxy)carbonyl]amino]-1-oxobutyl]-2-pyrrolidinyl]-1H-imidazol-5-yl]phenyl]-1H-naphth[1,2-d]imidazol-2-yl]-1-pyrrolidinyl]carbonyl]-2-methylpropyl]-, 1-methylethyl ester",Not available,-0.86082622291492,0.261839176502344
+85,847574-70-3,"1H-Imidazo[4,5-c]quinolin-4-amine, 7-[(2-methylphenyl)methoxy]-1-(2-methylpropyl)-2-propyl-",Not available,-0.8632378798389234,0.26156365501951845
+86,847574-76-9,"1H-Imidazo[4,5-c]quinolin-4-amine, 2-(ethoxymethyl)-7-[(3-methylphenyl)methoxy]-1-(2-methylpropyl)-",Not available,-0.8632378798389234,0.26156365501951845
+87,864808-76-4,"3-Azabicyclo[3.1.0]hexane-2-carboxamide, N-[3-amino-1-(cyclopropylmethyl)-2,3-dioxopropyl]-3-[(2S)-2-[[[[1-[(dimethylamino)carbonyl]cyclohexyl]amino]carbonyl]amino]-3,3-dimethyl-1-oxobutyl]-6,6-dimethyl-, (1R,2S,5S)-",Not available,-0.8654975155575328,0.27382448254851927
+88,194918-84-8,"Phosphoric acid, mono[2-[(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)methoxy]ethyl] mono[2-hydroxy-3-(octadecyloxy)propyl] ester, (R)-",Not available,-0.8661607533452476,0.23178683675760894
+89,1442563-24-7,"D-glycero-D-galacto-Non-2-enonic acid, 5-(acetylamino)-2,6-anhydro-3,4,5-trideoxy-4-[[imino[(1-oxo-4-phenoxybutyl)amino]methyl]amino]-",Not available,-0.8662208139905763,0.24671844972877216
+90,1184942-52-6,"5,8-Dioxa-3-aza-4-phosphanonanoic acid, 9-(2-amino-1,6-dihydro-6-oxo-9H-purin-9-yl)-2,2-dimethyl-4-phenoxy-, phenylmethyl ester, 4-oxide",Not available,-0.8663113723565873,0.22664527482299002
+91,1312897-55-4,"4H-1-Benzopyran-4-one, 5-[(4-fluorophenyl)methoxy]-3-hydroxy-7-methoxy-2-(3-methyl-1H-1,2,4-triazol-5-yl)-",Not available,-0.8663392993881701,0.29836471660339897
+92,1312909-26-4,"4H-1-Benzopyran-4-one, 6-[(4-fluorophenyl)methoxy]-3-hydroxy-7,8-dimethyl-2-(2-pyrimidinyl)-",Not available,-0.8667622945945702,0.2742097105735156
+93,853792-98-0,"1H-Imidazo[4,5-c]quinoline-1-ethanol, 4-amino-ÃŽÂ±,ÃŽÂ±-dimethyl-2-(2-methylpropyl)-",Not available,-0.8674813864454505,0.211556881884657
+94,1834500-72-9,"1Ã¢â‚¬Â²a-Carbaguanosine, 5Ã¢â‚¬Â²-O-phosphonoadenylyl-(3Ã¢â‚¬Â²Ã¢â€ â€™5Ã¢â‚¬Â²)-, cyclic nucleotide",Not available,-0.8675874857955641,0.26374801278787624
+95,10142-53-7,"2,7-Naphthalenedisulfonic acid, 3-amino-4-(2-phenyldiazenyl)-, sodium salt (1:2)",Not available,-0.8678064617670542,0.25793499147219584
+96,1947401-76-4,"9H-Purin-6-amine, 9-ÃŽÂ²-D-arabinofuranosyl-N-[[3,5-bis(trifluoromethyl)phenyl]methyl]-",Not available,-0.8692621728944943,0.2190703230014185
+97,762241-04-3,"Urea, N-[3-[4-amino-2-(2-methoxyethyl)-1H-imidazo[4,5-c]quinolin-1-yl]-2,2-dimethylpropyl]-NÃ¢â‚¬Â²-phenyl-",Not available,-0.8734418796715477,0.29926923561908875
+98,19556-58-2,"Uridine, 5-iodo-2Ã¢â‚¬Â²,3Ã¢â‚¬Â²-O-(1-methylethylidene)-",Not available,-0.8753307519122822,0.21021495929616
+99,209214-07-3,"Glycine, N-(3Ã¢â‚¬Â²-azido-3Ã¢â‚¬Â²-deoxy-5Ã¢â‚¬Â²-thymidylyl)-",Not available,-0.8755073115136276,0.22723731318168644
