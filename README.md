@@ -36,27 +36,27 @@ CSV files containing the pIC50 values of blinded molecules and the top 100 CAS a
   The CAS antiviral database sdf file is available in sdf/cas_antiviral.sdf. This sdf file is supplied to Padel descriptor to generate molecular descriptors. The molecular descriptors for CAS antiviral compounds are saved in molecular_descriptors_csv/cas_antiviral_molecular_descriptors.csv.
   This notebook takes the raw molecular descriptors and applies min-max scaling. The same scaler (available in scaler_data/) used to scale training set compounds is used. Molecules having NaN values as any of the descriptors are dropped. Only those descriptors are retained which are used during training. The resultant processed descriptor file is saved in molecular_descriptors_csv/min_max_scaled_cas_antiviral_molecular_descriptors.csv
   
- ### 9.predict_cas_antiviral.ipynb
+ ### 9. predict_cas_antiviral.ipynb
  This notebook predicts pIC50 values of CAS antiviral molecules by using 35 best models used during training. Molecules are ranked in descending order of pIC50 values which are within the applicbility domain of the models. The top 100 ranked compounds are available in pIC50_values_csv/cas_antiviral_top_100_pIC50_vals.csv
  
  ## About the folders in this project:
  
- ### best_models
+ ### 1. best_models
  Saves the best model architectures and weights. Saves data used to train and test the models. Also saves the performance parameters of best models.
- ### data
+ ### 2. data
  Saves data when create_dataset.ipynb is run. Contains training, leave one out and test datasets.
  
- ### models_info
+ ### 3. models_info
  Saves model architectures,weights and model parameters when CNN_regression.ipynb is run. Also saves data to compute external validation parameters.
- ### molecular_descriptors_csv
+ ### 4. molecular_descriptors_csv
  Saves raw and scaled molecular descriptors for training/test, blinded and CAS antiviral compounds. This folder serves as the master dataset for the project.
  
- ### pIC50_values_csv
+ ### 5. pIC50_values_csv
  Saves pIC50 values for blinded and top 100 CAS antiviral compounds. This folder serves as the output of this project.
  
- ### scaler_data
+ ### 6. scaler_data
  Saves the min-max scaler attributes used to transform training set molecular descriptors.
  
- ### sdf
+ ### 7. sdf
  saves sdf files for training,test,blinded and CAS antiviral molecules..
  
