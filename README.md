@@ -41,22 +41,22 @@ CSV files containing the pIC50 values of blinded molecules and the top 100 CAS a
  
  ## About the folders in this project:
  
- ### 1. best_models
+ ### 1. best_models/
  Saves the best model architectures and weights. Saves data used to train and test the models. Also saves the performance parameters of best models.
- ### 2. data
+ ### 2. data/
  Saves data when create_dataset.ipynb is run. Contains training, leave one out and test datasets.
  
- ### 3. models_info
+ ### 3. models_info/
  Saves model architectures,weights and model parameters when CNN_regression.ipynb is run. Also saves data to compute external validation parameters.
- ### 4. molecular_descriptors_csv
+ ### 4. molecular_descriptors_csv/
  Saves raw and scaled molecular descriptors for training/test, blinded and CAS antiviral compounds. This folder serves as the master dataset for the project.
  
- ### 5. pIC50_values_csv
+ ### 5. pIC50_values_csv/
  Saves pIC50 values for blinded and top 100 CAS antiviral compounds. This folder serves as the output of this project.
  
- ### 6. scaler_data
+ ### 6. scaler_data/
  Saves the min-max scaler attributes used to transform training set molecular descriptors.
  
- ### 7. sdf
+ ### 7. sdf/
  saves sdf files for training,test,blinded and CAS antiviral molecules..
  
